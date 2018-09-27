@@ -1,6 +1,18 @@
 # EMU-Q
 Exploring by Minimizing Uncertainty of Q values (EMU-Q) as presented in "Bayesian RL for Goal-Only Rewards" at CoRL'18 by *P. Morere and F. Ramos* (link).
 
+If you use any of the code related to this repository in a paper, research etc., please cite:
+
+```bibtex
+@inproceedings{
+    morere2018bayesian,
+    title={Bayesian {RL} for Goal-Only Rewards},
+    author={Morere, Philippe and Ramos, Fabio},
+    booktitle={Conference on Robot Learning},
+    year={2018},
+}
+```
+
 ## Dependencies
 This code is written for python3. The dependencies (pip packages) are:
 * numpy
