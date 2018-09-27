@@ -1,5 +1,5 @@
 # EMU-Q
-Exploring by Minimizing Uncertainty of Q values (EMU-Q) as presented in "Bayesian RL for Goal-Only Rewards" at CoRL'18 <link to paper>
+Exploring by Minimizing Uncertainty of Q values (EMU-Q) as presented in "Bayesian RL for Goal-Only Rewards" at CoRL'18 by *P. Morere and F. Ramos* (link).
 
 ## Dependencies
 This code is written for python3. The dependencies (pip packages) are:
