@@ -1,5 +1,5 @@
 # EMU-Q
-Exploring by Minimizing Uncertainty of Q values (EMU-Q) as presented in "Bayesian RL for Goal-Only Rewards" at CoRL'18 by *P. Morere and F. Ramos* (link).
+Exploring by Minimizing Uncertainty of Q values (EMU-Q) as presented in "Bayesian RL for Goal-Only Rewards" at CoRL'18 by *P. Morere and F. Ramos* [\[PDF\]](http://proceedings.mlr.press/v87/morere18a/morere18a.pdf).
 
 If you use any of the code related to this repository in a paper, research etc., please cite:
 
